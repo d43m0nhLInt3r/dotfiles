@@ -38,16 +38,16 @@ ForegroundVisited=145,61,136
 [Colors:Complementary]
 BackgroundAlternate=66,66,66
 BackgroundNormal=51,51,51
-DecorationFocus=49,91,239
-DecorationHover=49,91,239
-ForegroundActive=246,116,0
-ForegroundInactive=136,136,136
+DecorationFocus=30,146,255
+DecorationHover=61,174,230
+ForegroundActive=49,91,239
+ForegroundInactive=120,120,120
 ForegroundLink=49,91,239
-ForegroundNegative=237,21,21
-ForegroundNeutral=201,206,59
-ForegroundNormal=222,222,222
-ForegroundPositive=17,209,22
-ForegroundVisited=49,91,239
+ForegroundNegative=231,76,60
+ForegroundNeutral=253,188,75
+ForegroundNormal=239,240,241
+ForegroundPositive=46,204,113
+ForegroundVisited=120,120,120
 
 [Colors:Selection]
 BackgroundAlternate=62,138,204
@@ -116,8 +116,31 @@ Theme=breath2
 
 [KDE]
 LookAndFeelPackage=org.kde.breath2.desktop
+ShowDeleteCommand=false
 contrast=4
 widgetStyle=Breeze
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=138
+View Style=DetailTree
+
+[PreviewSettings]
+MaximumRemoteSize=0
 
 [WM]
 activeBackground=62,71,78

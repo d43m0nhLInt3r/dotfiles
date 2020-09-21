@@ -6,6 +6,60 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
+[Containments][139][Configuration]
+PreloadWeight=42
+
+[Containments][140][Applets][141][Configuration]
+PreloadWeight=92
+
+[Containments][140][Applets][142][Configuration]
+PreloadWeight=42
+
+[Containments][140][Applets][143][Configuration]
+PreloadWeight=42
+
+[Containments][140][Applets][144][Configuration]
+PreloadWeight=42
+
+[Containments][140][Applets][153][Configuration]
+PreloadWeight=42
+
+[Containments][140][Applets][154][Configuration]
+PreloadWeight=42
+
+[Containments][140][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][146][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][147][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][148][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][149][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][150][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][151][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][152][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][155][Configuration]
+PreloadWeight=42
+
+[Containments][145][Applets][156][Configuration]
+PreloadWeight=42
+
+[Containments][145][Configuration]
+PreloadWeight=42
+
 [Containments][92]
 ItemGeometriesHorizontal=
 activityId=3ca13899-be2e-44b0-a96c-328bcf7f9887
@@ -26,7 +80,7 @@ ToolBoxButtonX=750
 ToolBoxButtonY=38
 
 [Containments][92][Wallpaper][org.kde.image][General]
-Image=file:///home/ex/.local/share/wallpapers/WhiteSur/contents/images/2560x1440.png
+Image=/home/ex/.local/share/wallpapers/Breath2/images/WhiteSur.jpg
 
 [Containments][93]
 activityId=
@@ -138,7 +192,7 @@ immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][98][Applets][139][Configuration]
-PreloadWeight=42
+PreloadWeight=18
 
 [Containments][98][Applets][99]
 immutability=1

@@ -1,12 +1,14 @@
+[KFileDialog Settings]
+Recent Files[$e]=WhiteSur.jpg,file:$HOME/.local/share/wallpapers/Breath2/images/WhiteSur.jpg
+Recent URLs[$e]=file:$HOME/.local/share/wallpapers/Breath2/images/
+detailViewIconSize=0
+
 [Open-with settings]
 CompletionMode=1
 History=
 
 [PlasmaRunnerManager]
 LaunchCounts=
-
-[PlasmaTransientsConfig]
-PreloadWeight=0
 
 [PlasmaViews][Panel 1][Defaults]
 thickness=45
@@ -120,6 +122,9 @@ thickness=38
 thickness=38
 
 [PlasmaViews][Panel 93][Horizontal1920]
+thickness=38
+
+[PlasmaViews][Panel 93][Horizontal960]
 thickness=38
 
 [ScreenConnectors]

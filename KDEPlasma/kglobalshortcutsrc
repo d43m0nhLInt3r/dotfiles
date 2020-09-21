@@ -47,7 +47,7 @@ Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Loc
 Log Out=Ctrl+Alt+Del,none,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
-_k_friendly_name=Session Management
+_k_friendly_name=System Settings
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
@@ -253,8 +253,8 @@ cycleNextAction=none,none,Next History Item
 cyclePrevAction=none,none,Previous History Item
 edit_clipboard=none,none,Edit Contents...
 manage activities=Meta+Q,Meta+Q,Activities...
-next activity=Meta+Tab,none,Walk through activities
-previous activity=Meta+Shift+Tab,none,Walk through activities (Reverse)
+next activity=Meta+Tab,Meta+Tab,Walk through activities
+previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Walk through activities (Reverse)
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
 show-barcode=none,none,Show Barcode...
